@@ -1,1 +1,1 @@
-# ai_coding_assistant
+# ai_coding
